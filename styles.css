@@ -1,0 +1,11 @@
+body {
+    background-color: lightgreen;
+  }
+  #navbar{
+  position:fixed;
+  }
+  @media only screen and (max-height: 100%) {
+    body {
+      background-color: lightblue;
+    }
+  }
